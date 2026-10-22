@@ -1,3 +1,4 @@
 Seznam věcí ketré umím:
 HTML
-css
+CSS
+Javaspcript?
